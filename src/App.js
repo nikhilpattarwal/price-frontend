@@ -10,7 +10,7 @@ import image4 from './files/myntra.png';
 function App() {
   return (
     <div className={styles.topCont}>
-      <h1 className={styles.homeText}>Never Overpay Again! Compare Prices and Find the Best Deals.</h1>
+      <h1 className={styles.homeText}>Never Overpay Again! Compare Prices and Find the Best Deals</h1>
       <div className={styles.logosCont}>
         <img src={image1} className={styles.logo1}/>
         <img src={image2} className={styles.logo2}/>
