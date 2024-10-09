@@ -1,0 +1,47 @@
+.topCont{
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  gap: 4rem;
+  .homeText{
+    color: #36454F;
+    margin-bottom: 2rem;
+    text-align: center;
+    margin: 0;
+    margin-top: 2rem;
+  }
+  .logosCont{
+    // position: absolute;
+    // left: 50%;
+    // top: 27%;
+    // transform: translate(-50%, 0%);
+    gap: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .logo1{
+      height:4rem;
+      width:auto
+    }
+    .logo2{
+      height:6rem;
+      width:auto
+    }
+    .logo3{
+      height:2rem;
+      width:auto
+    }
+    .logo4{
+      height:2rem;
+      width:auto
+    }
+  }
+  .mainCont{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}

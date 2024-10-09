@@ -1,0 +1,126 @@
+.input {
+    color: #ffffff;
+    border: 2px solid #8707ff;
+    border-radius: 10px;
+    padding: 10px 25px;
+    background: transparent;
+    width: 38vw;
+    height: 3vh;
+    outline: none;
+    font-size: 1.5rem;
+    // animation: glow 30s infinite alternate; 
+
+  }
+  
+  .input:active {
+    box-shadow: 2px 2px 15px #8707ff inset;
+  }
+  
+  @keyframes glow {
+    0% {
+      border-color: #8707ff; /* Purple */
+      box-shadow: 0 0 5px #8707ff, 0 0 10px #8707ff, 0 0 15px #8707ff;
+    }
+    4% {
+      border-color: #ff07d4; /* Pink */
+      box-shadow: 0 0 5px #ff07d4, 0 0 10px #ff07d4, 0 0 15px #ff07d4;
+    }
+    8% {
+      border-color: #ff5807; /* Orange */
+      box-shadow: 0 0 5px #ff5807, 0 0 10px #ff5807, 0 0 15px #ff5807;
+    }
+    12% {
+      border-color: #ffeb3b; /* Yellow */
+      box-shadow: 0 0 5px #ffeb3b, 0 0 10px #ffeb3b, 0 0 15px #ffeb3b;
+    }
+    16% {
+      border-color: #4caf50; /* Green */
+      box-shadow: 0 0 5px #4caf50, 0 0 10px #4caf50, 0 0 15px #4caf50;
+    }
+    20% {
+      border-color: #2196f3; /* Blue */
+      box-shadow: 0 0 5px #2196f3, 0 0 10px #2196f3, 0 0 15px #2196f3;
+    }
+    24% {
+      border-color: #9c27b0; /* Purple */
+      box-shadow: 0 0 5px #9c27b0, 0 0 10px #9c27b0, 0 0 15px #9c27b0;
+    }
+    28% {
+      border-color: #ff9800; /* Deep Orange */
+      box-shadow: 0 0 5px #ff9800, 0 0 10px #ff9800, 0 0 15px #ff9800;
+    }
+    32% {
+      border-color: #3f51b5; /* Indigo */
+      box-shadow: 0 0 5px #3f51b5, 0 0 10px #3f51b5, 0 0 15px #3f51b5;
+    }
+    36% {
+      border-color: #ff5722; /* Deep Orange */
+      box-shadow: 0 0 5px #ff5722, 0 0 10px #ff5722, 0 0 15px #ff5722;
+    }
+    40% {
+      border-color: #673ab7; /* Deep Purple */
+      box-shadow: 0 0 5px #673ab7, 0 0 10px #673ab7, 0 0 15px #673ab7;
+    }
+    44% {
+      border-color: #cddc39; /* Lime */
+      box-shadow: 0 0 5px #cddc39, 0 0 10px #cddc39, 0 0 15px #cddc39;
+    }
+    48% {
+      border-color: #009688; /* Teal */
+      box-shadow: 0 0 5px #009688, 0 0 10px #009688, 0 0 15px #009688;
+    }
+    52% {
+      border-color: #e91e63; /* Pink */
+      box-shadow: 0 0 5px #e91e63, 0 0 10px #e91e63, 0 0 15px #e91e63;
+    }
+    56% {
+      border-color: #f44336; /* Red */
+      box-shadow: 0 0 5px #f44336, 0 0 10px #f44336, 0 0 15px #f44336;
+    }
+    60% {
+      border-color: #ffc107; /* Amber */
+      box-shadow: 0 0 5px #ffc107, 0 0 10px #ffc107, 0 0 15px #ffc107;
+    }
+    64% {
+      border-color: #795548; /* Brown */
+      box-shadow: 0 0 5px #795548, 0 0 10px #795548, 0 0 15px #795548;
+    }
+    68% {
+      border-color: #607d8b; /* Blue Grey */
+      box-shadow: 0 0 5px #607d8b, 0 0 10px #607d8b, 0 0 15px #607d8b;
+    }
+    72% {
+      border-color: #9e9e9e; /* Grey */
+      box-shadow: 0 0 5px #9e9e9e, 0 0 10px #9e9e9e, 0 0 15px #9e9e9e;
+    }
+    76% {
+      border-color: #b2ff59; /* Light Green */
+      box-shadow: 0 0 5px #b2ff59, 0 0 10px #b2ff59, 0 0 15px #b2ff59;
+    }
+    80% {
+      border-color: #00bcd4; /* Cyan */
+      box-shadow: 0 0 5px #00bcd4, 0 0 10px #00bcd4, 0 0 15px #00bcd4;
+    }
+    84% {
+      border-color: #ffeb3b; /* Yellow */
+      box-shadow: 0 0 5px #ffeb3b, 0 0 10px #ffeb3b, 0 0 15px #ffeb3b;
+    }
+    88% {
+      border-color: #673ab7; /* Deep Purple */
+      box-shadow: 0 0 5px #673ab7, 0 0 10px #673ab7, 0 0 15px #673ab7;
+    }
+    92% {
+      border-color: #ff5722; /* Deep Orange */
+      box-shadow: 0 0 5px #ff5722, 0 0 10px #ff5722, 0 0 15px #ff5722;
+    }
+    96% {
+      border-color: #3f51b5; /* Indigo */
+      box-shadow: 0 0 5px #3f51b5, 0 0 10px #3f51b5, 0 0 15px #3f51b5;
+    }
+    100% {
+      border-color: #8707ff; /* Purple */
+      box-shadow: 0 0 5px #8707ff, 0 0 10px #8707ff, 0 0 15px #8707ff;
+    }
+  }
+  
+  
